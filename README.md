@@ -20,7 +20,7 @@ Selesaikan langkah-langkah praktikum berikut ini menggunakan editor Visual Studi
 
 Buatlah sebuah project flutter baru dengan nama master_plan di folder src week-11 repository GitHub Anda. Lalu buatlah susunan folder dalam project seperti gambar berikut ini.
 
-<img src='ft/1.png' width='50%'>
+![](ft/1.png)
 
 
 #### **Langkah 2: Membuat model task.dart**
@@ -240,7 +240,7 @@ void dispose() {
 #### **Langkah 14: Hasil**
 Lakukan Hot restart (bukan hot reload) pada aplikasi Flutter Anda. Anda akan melihat tampilan akhir seperti gambar berikut. Jika masih terdapat error, silakan diperbaiki hingga bisa running.
 
-<img src='ft/2.png' width='50%'>
+![](ft/2.png)
 
 >Catatan: Kedua fitur hot reload dan hot restart memiliki performa lebih cepat dibanding melakukan build ulang secara keseluruhan aplikasi. Secara umum:
 >
@@ -465,7 +465,7 @@ Akhirnya, run atau tekan F5 jika aplikasi belum running. Tidak akan terlihat per
 
 4. Lakukan capture hasil dari Langkah 9, kemudian jelaskan apa yang telah Anda buat!
 
-    <img src='ft/3.png' width='30%'>
+    ![](ft/3.png)
 
 5. Kumpulkan laporan praktikum Anda berupa link commit atau repository GitHub ke spreadsheet yang telah disediakan!
 
@@ -759,6 +759,6 @@ Terakhir, run atau tekan F5 untuk melihat hasilnya jika memang belum running. Bi
       * PlanScreen utility akan memantau perubahan dalam daftar rencana tersebut dan secara otomatis memperbarui tampilan layarnya.
 
 3. Lakukan capture hasil dari Langkah 14, kemudian jelaskan apa yang telah Anda buat!
-    <img src='ft/4.png' width='40%'>
+    ![](ft/4.png)
 
 4. Kumpulkan laporan praktikum Anda berupa link commit atau repository GitHub ke spreadsheet yang telah disediakan!
