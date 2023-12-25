@@ -264,7 +264,7 @@ Lakukan Hot restart (bukan hot reload) pada aplikasi Flutter Anda. Anda akan mel
 
 4. Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
 
-    <img src='ft/2.png' width='30%'>
+    ![](ft/3.png)
 
 
 5. Apa kegunaan method pada Langkah 11 dan 13 dalam lifecyle state ?
@@ -759,6 +759,7 @@ Terakhir, run atau tekan F5 untuk melihat hasilnya jika memang belum running. Bi
       * PlanScreen utility akan memantau perubahan dalam daftar rencana tersebut dan secara otomatis memperbarui tampilan layarnya.
 
 3. Lakukan capture hasil dari Langkah 14, kemudian jelaskan apa yang telah Anda buat!
+
     ![](ft/4.png)
 
 4. Kumpulkan laporan praktikum Anda berupa link commit atau repository GitHub ke spreadsheet yang telah disediakan!
